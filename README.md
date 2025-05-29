@@ -1,6 +1,6 @@
-#NFHS-5 Data Analysis – Public Health Insights from India
+# NFHS-5 Data Analysis – Public Health Insights from India
 
-##Project Objectives:
+## Project Objectives:
 Clean and transform raw NFHS-5 data using Power BI's Power Query Editor
 
 Analyze major health metrics such as child malnutrition, anemia, obesity, and fertility rates
